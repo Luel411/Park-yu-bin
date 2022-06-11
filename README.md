@@ -52,4 +52,5 @@
 |소프트웨어세미나I|1|
 
 
-github address: [jihyeon-0217][github]
+github address: [Luel411][github]
+[github]:http://github.com/Luel411
