@@ -51,3 +51,5 @@
 |오디세이세미나1|1|
 |소프트웨어세미나I|1|
 
+
+github address: [jihyeon-0217][github]
