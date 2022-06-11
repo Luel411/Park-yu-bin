@@ -2,5 +2,5 @@
 ---
 ![이력서사진](pyb.jpg)
 
-<img src=pyb.jpg height=300 widht=300
+<img src=pyb.jpg height=300 widht=300>
 박유빈
